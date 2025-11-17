@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | Lunar Scarlett Co.</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+
+    <nav class="main-nav">
+        <div class="container nav-content">
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="about.html">About Us</a>
+                <a href="faq.html">FAQs</a>
+                <a href="returns.html">Returns</a>
+            </div>
+            <form action="#" method="get" class="search-form">
+                <input type="text" placeholder="Search Lunar Scarlett Co..." name="q" class="search-input">
+                <button type="submit" class="search-button"><i class="fas fa-search"></i></button>
+            </form>
+        </div>
+    </nav>
+    
+    <div class="content-page">
+        <div class="container">
+            <h1 class="page-title">🌙 About Lunar Scarlett Co. 🌹</h1>
+            
+            <section class="page-section">
+                <h2>Our Vision: Celestial Dreams Meet Earthly Passion</h2>
+                <p>Lunar Scarlett Co. was founded on the idea that fashion should reflect the **dual nature of beauty**—the quiet, mysterious elegance of the night sky and the bold, vibrant passion of a red rose. We craft apparel and goods that embody this unique celestial and romantic aesthetic.</p>
+            </section>
+
+            <section class="page-section bg-light-section">
+                <h2>Designed with Love, Created Responsibly</h2>
+                <p>Every design you see here is an original piece, imagined and created by our team. We partner exclusively with **Printful**, a leading print-on-demand service, to ensure every item is ethically produced, printed with care, and shipped directly to you. This partnership allows us to offer a wide variety of high-quality items without holding large, wasteful inventory.</p>
+                <p>When you wear Lunar Scarlett, you're wearing a piece of the cosmos, powered by sustainable practices.</p>
+            </section>
+
+            <section class="page-section">
+                <h2>Connect With Our Community</h2>
+                <p>We're more than just a shop; we're a community of dreamers and romantics. Follow us on social media to see new designs, styling tips, and celestial inspiration!</p>
+            </section>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>Email us: **support@lunarscarlett.com**</p>
+            <p>&copy; <script>document.write(new Date().getFullYear())</script> Lunar Scarlett Co. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
